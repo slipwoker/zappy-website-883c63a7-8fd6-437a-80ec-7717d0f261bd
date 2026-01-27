@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xado-israel-883c63a7.zappy5.app/sitemap.xml

@@ -1,0 +1,87 @@
+# XADO ISRAEL — Generative Engine Optimization Map
+
+> A automotive products business.
+
+---
+
+## Pages
+
+### Home
+https://xado-israel-883c63a7.zappy5.app
+Discover expert automotive products and solutions at XADO ISRAEL. Your trusted online wholesale market for premium car care products.
+
+### Products
+https://xado-israel-883c63a7.zappy5.app/products
+Our Products - XADO ISRAEL
+
+### About
+https://xado-israel-883c63a7.zappy5.app/about
+Learn about XADO ISRAEL's commitment to providing premium automotive products to enthusiasts, DIY mechanics, and professional technicians across the industry.
+
+### Contact
+https://xado-israel-883c63a7.zappy5.app/contact
+Contact XADO ISRAEL for automotive product inquiries, orders, and technical support. We're here to help with all your automotive care needs.
+
+### Cart
+https://xado-israel-883c63a7.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://xado-israel-883c63a7.zappy5.app/checkout
+Checkout
+
+### Login
+https://xado-israel-883c63a7.zappy5.app/login
+Customer Login
+
+### Account
+https://xado-israel-883c63a7.zappy5.app/account
+My Account
+
+### Order Success
+https://xado-israel-883c63a7.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://xado-israel-883c63a7.zappy5.app/product/:slug
+Product Details - XADO ISRAEL
+
+### Category
+https://xado-israel-883c63a7.zappy5.app/category/:slug
+Products - XADO ISRAEL
+
+## Legal & Policy
+
+### Privacy Policy
+https://xado-israel-883c63a7.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://xado-israel-883c63a7.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://xado-israel-883c63a7.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About XADO ISRAEL
+XADO ISRAEL is a business in the automotive products industry.
+
+## Target Audience
+- Automotive Enthusiasts
+- DIY Auto Mechanics
+- Professional Mechanics
+
+## Industry
+automotive products
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://xado-israel-883c63a7.zappy5.app/sitemap.xml
+- **Robots.txt**: https://xado-israel-883c63a7.zappy5.app/robots.txt
